@@ -1,0 +1,13 @@
+# TODO: refactor to sh script
+
+ZSH_THEME="zettca"
+
+plugins (
+    wd
+    git
+    npm
+    colored-man-pages
+    zsh-autosuggestions
+    zsh-syntax-highlighting
+    zettca
+)
